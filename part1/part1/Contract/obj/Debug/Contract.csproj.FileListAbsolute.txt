@@ -1,0 +1,7 @@
+D:\GitHub\RSI4\part1\part1\Contract\bin\Debug\Contract.dll.config
+D:\GitHub\RSI4\part1\part1\Contract\bin\Debug\Contract.dll
+D:\GitHub\RSI4\part1\part1\Contract\bin\Debug\Contract.pdb
+D:\GitHub\RSI4\part1\part1\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\GitHub\RSI4\part1\part1\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\Contract\obj\Debug\Contract.dll
+D:\GitHub\RSI4\part1\part1\Contract\obj\Debug\Contract.pdb

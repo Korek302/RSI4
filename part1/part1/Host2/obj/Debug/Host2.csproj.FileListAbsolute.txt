@@ -1,0 +1,11 @@
+D:\GitHub\RSI4\part1\part1\Host2\bin\Debug\Host2.exe.config
+D:\GitHub\RSI4\part1\part1\Host2\bin\Debug\Host2.exe
+D:\GitHub\RSI4\part1\part1\Host2\bin\Debug\Host2.pdb
+D:\GitHub\RSI4\part1\part1\Host2\bin\Debug\Contract2.dll
+D:\GitHub\RSI4\part1\part1\Host2\bin\Debug\Contract2.pdb
+D:\GitHub\RSI4\part1\part1\Host2\bin\Debug\Contract2.dll.config
+D:\GitHub\RSI4\part1\part1\Host2\obj\Debug\Host2.csprojResolveAssemblyReference.cache
+D:\GitHub\RSI4\part1\part1\Host2\obj\Debug\Host2.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\Host2\obj\Debug\Host2.csproj.CopyComplete
+D:\GitHub\RSI4\part1\part1\Host2\obj\Debug\Host2.exe
+D:\GitHub\RSI4\part1\part1\Host2\obj\Debug\Host2.pdb

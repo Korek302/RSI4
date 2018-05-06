@@ -1,0 +1,14 @@
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\Host.exe.config
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\Host.exe
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\Host.pdb
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\Contract.dll
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\Contract.pdb
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\Contract.dll.config
+D:\GitHub\RSI4\part1\part1\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\GitHub\RSI4\part1\part1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\Host\obj\Debug\Host.csproj.CopyComplete
+D:\GitHub\RSI4\part1\part1\Host\obj\Debug\Host.exe
+D:\GitHub\RSI4\part1\part1\Host\obj\Debug\Host.pdb
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\CallbackContract.dll
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\CallbackContract.pdb
+D:\GitHub\RSI4\part1\part1\Host\bin\Debug\CallbackContract.dll.config

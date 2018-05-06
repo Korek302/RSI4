@@ -1,0 +1,7 @@
+D:\GitHub\RSI4\part1\part1\CallbackContract\bin\Debug\CallbackContract.dll.config
+D:\GitHub\RSI4\part1\part1\CallbackContract\bin\Debug\CallbackContract.dll
+D:\GitHub\RSI4\part1\part1\CallbackContract\bin\Debug\CallbackContract.pdb
+D:\GitHub\RSI4\part1\part1\CallbackContract\obj\Debug\CallbackContract.csprojResolveAssemblyReference.cache
+D:\GitHub\RSI4\part1\part1\CallbackContract\obj\Debug\CallbackContract.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\CallbackContract\obj\Debug\CallbackContract.dll
+D:\GitHub\RSI4\part1\part1\CallbackContract\obj\Debug\CallbackContract.pdb

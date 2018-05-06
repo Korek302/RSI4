@@ -1,0 +1,7 @@
+D:\GitHub\RSI4\part1\part1\Client\bin\Debug\Client.exe.config
+D:\GitHub\RSI4\part1\part1\Client\bin\Debug\Client.exe
+D:\GitHub\RSI4\part1\part1\Client\bin\Debug\Client.pdb
+D:\GitHub\RSI4\part1\part1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\Client\obj\Debug\Client.exe
+D:\GitHub\RSI4\part1\part1\Client\obj\Debug\Client.pdb
+D:\GitHub\RSI4\part1\part1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

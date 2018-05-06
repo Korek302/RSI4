@@ -1,0 +1,6 @@
+D:\GitHub\RSI4\part1\part1\Contract2\bin\Debug\Contract2.dll.config
+D:\GitHub\RSI4\part1\part1\Contract2\bin\Debug\Contract2.dll
+D:\GitHub\RSI4\part1\part1\Contract2\bin\Debug\Contract2.pdb
+D:\GitHub\RSI4\part1\part1\Contract2\obj\Debug\Contract2.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\Contract2\obj\Debug\Contract2.dll
+D:\GitHub\RSI4\part1\part1\Contract2\obj\Debug\Contract2.pdb

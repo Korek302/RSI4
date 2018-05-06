@@ -1,0 +1,6 @@
+D:\GitHub\RSI4\part1\part1\Client2\bin\Debug\Client2.exe.config
+D:\GitHub\RSI4\part1\part1\Client2\bin\Debug\Client2.exe
+D:\GitHub\RSI4\part1\part1\Client2\bin\Debug\Client2.pdb
+D:\GitHub\RSI4\part1\part1\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+D:\GitHub\RSI4\part1\part1\Client2\obj\Debug\Client2.exe
+D:\GitHub\RSI4\part1\part1\Client2\obj\Debug\Client2.pdb
