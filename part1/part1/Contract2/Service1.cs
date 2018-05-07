@@ -14,8 +14,7 @@ namespace Contract2
         {
             FileStream myFile;
             Console.WriteLine("-->Wywolano getStream");
-            string filePath = Path.Combine(System.Environment.
-            CurrentDirectory, ".\\image.jpg");
+            string filePath = Path.Combine(System.Environment.CurrentDirectory, ".\\image.jpg");
             // wyjatek na wypadek bledu otwarcia pliku
             try
             {
@@ -37,8 +36,7 @@ namespace Contract2
             string nazwa = request.nazwa1;
             FileStream myFile;
             Console.WriteLine("-->Wywolano getStream");
-            string filePath = Path.Combine(System.Environment.
-            CurrentDirectory, ".\\image.jpg");
+            string filePath = Path.Combine(System.Environment.CurrentDirectory, ".\\image.jpg");
             // wyjatek na wypadek bledu otwarcia pliku
             try
             {
